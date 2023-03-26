@@ -2,6 +2,6 @@ import React from 'react'
 
 export const NewAdded = () => {
   return (
-    <div>NewAddedafafafafaffa</div>
+    <div>NewAddedafafafafaffa1235455</div>
   )
 }
