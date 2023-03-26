@@ -2,7 +2,7 @@ import React from 'react'
 
 const GetSample = () => {
   return (
-    <div>GetsssSample</div>
+    <div>GetsssSample124 My names addedd</div>
   )
 }
 
